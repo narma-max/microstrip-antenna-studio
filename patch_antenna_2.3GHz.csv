@@ -1,0 +1,11 @@
+Parameter,Value,Unit
+Target Frequency,2.3,GHz
+Substrate εᵣ,4.4,—
+Substrate Thickness (h),1.6,mm
+Patch Width (W),39.6900,mm
+Effective Dielectric (εeff),4.095625,—
+Fringe Length Ext. (ΔL),0.7392,mm
+Effective Length (Leff),32.2258,mm
+Physical Patch Length (L),30.7473,mm
+
+Note,All results are theoretical estimates based on the transmission-line model.
