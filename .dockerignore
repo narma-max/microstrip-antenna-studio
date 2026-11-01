@@ -1,0 +1,11 @@
+venv/
+.git/
+__pycache__/
+*.pyc
+backup_v1/
+app_v1_backup.py
+requirements_v1_backup.txt
+README_v1_backup.md
+test_*.py
+generate_project_pdf.py
+
